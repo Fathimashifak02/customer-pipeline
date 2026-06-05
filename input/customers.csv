@@ -1,0 +1,19 @@
+customer_id,customer_name,email,phone,city,state,country,signup_date,updated_at
+C001,James Anderson,james.anderson@email.com,555-2341,New York,NY,USA,15-01-2019,10-03-2024
+C002,Sarah Williams,sarah.williams@email.com,555-8762,Los Angeles,CA,USA,22-03-2019,05-01-2024
+C003,Michael Johnson,michael.j@email.com,555-3345,Chicago,IL,USA,10-06-2018,18-04-2024
+C004,Emily Brown,emily.brown@email.com,555-6678,Houston,TX,USA,05-09-2020,22-11-2023
+C005,David Davis,david.davis@email.com,555-9912,Phoenix,AZ,USA,28-11-2017,01-05-2024
+C006,Jessica Martinez,jessica.m@email.com,555-4423,Philadelphia,PA,USA,14-02-2021,30-09-2023
+C007,Robert Garcia,robert.garcia@email.com,555-7756,San Antonio,TX,USA,19-07-2016,27-02-2024
+C008,Ashley Wilson,ashley.w@email.com,555-1198,San Diego,CA,USA,31-08-2019,14-12-2023
+C009,Christopher Taylor,chris.taylor@email.com,555-3367,Dallas,TX,USA,07-03-2015,02-04-2024
+C010,Amanda Moore,amanda.moore@email.com,555-8821,San Jose,CA,USA,20-06-2022,01-06-2024
+C011,ASDFG,asdfg.anderson@email.com,555-3381,Houston,TX,USA,15-01-2019,20-06-2022
+C012,ghjkl,ghjkl.m@email.com,555-3388,Houston,TX,USA,15-01-2019,20-06-2022
+C013,dani,daani.w@email.com,555-4567,Phoenix,AZ,USA,14-02-2021,30-09-2023
+C014,fgfhg,ranidfg@gmail.com,555-2596,hjhj,QA,IND,18-05-2026,30-01-2027
+C015,Ashna,Ashna@gmail.com,555-2598,Phoenix,AZ,USA,14-02-2021,30-09-2023
+C016,jamesd,james2@email.com,555-1234,Boston,MA,USA,01-01-2020,01-01-2024
+C017,Robert King ,notanemail@email.com,555-5678,Boston,MA,USA,02-02-2020,02-02-2024
+C018,David Lee,david@email.com,555-1233,Boston,MA,USA,03-03-2020,03-03-2024
